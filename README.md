@@ -5,9 +5,9 @@
 - 可以在清华大学物理系找到我 现在还有实验正在进行
 - 联系方式 TG：@yaomiao95 ； Email：cyanan89@gmail.com
 
-- 👋 Hi, I’m Adria.
-- 👀 I’m interested in complex system.
-- 🌱 I’m currently learning C, Python ,Linux and Matlab.
+- Hi, I’m Adria.
+- I’m interested in complex system.
+- I’m currently learning C, Python ,Linux and Matlab.
 - I have lived in Taipei for 18 years, mtf, transfem in STEM, friendly, active in physics department
 - contact me :  telegram @yaomiao95 ; Email cyanan89@gmail.com
 
